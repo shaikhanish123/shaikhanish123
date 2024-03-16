@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **Full Stack Web Development**
 - 🌱 I’m currently learning **Node js**
 - 💬 Ask me about **core java , jsp-servlet, sql,Mysql**
-- 📫 How to reach me : ****https://w****
+- 📫 How to reach me : ****https://shaikhinfotech@gmail.com****
 - 👨‍💻 All of my projects are available at **https://www.github.com/shaikhanish123**
 - ⚡ Fun fact **I'm good AI and Googling**
 
