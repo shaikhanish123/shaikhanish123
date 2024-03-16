@@ -4,7 +4,6 @@
 - 💬 Ask me about core java, jsp-servlet
 - 📫 How to reach me
 - 👨‍💻 All of my projects are available at https://www.github.com/shaikhanish123
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I am good at Chatgpt
 <!---
 shaikhanish123/shaikhanish123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
