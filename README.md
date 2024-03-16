@@ -20,7 +20,7 @@
 
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Anishbin_Shakil04" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Anishbin-Shakil04" height="30" width="40" /></a><a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="s" height="30" width="40" /></a><a href="https://fb.com/Anish Shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Shaikh Anish" height="30" width="40" /></a><a href="https://www.hackerrank.com/shaikh anish" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="Shaikh Anish" height="30" width="40" /></a><a href="https://www.youtube.com/c/shaikh Anihs" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="anishbin_shaikil04" height="30" width="40" /></a><a href="https://instagram.com/anishbin_shakil04" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="ainshbin_shakil04" height="30" width="40" /></a><a href="https://medium.com/anishbin_shakil04" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="ainshbin_shakil04" height="30" width="40" /></a></p>
+<a href="https://twitter.com/Anishbin_Shakil04" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="Anishbin-Shakil04" height="30" width="40" /></a><a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="s" height="30" width="40" /></a><a href="https://fb.com/Anish Shaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Shaikh Anish" height="30" width="40" /></a><a href="https://www.hackerrank.com/shaikh anish" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="Shaikh Anish" height="30" width="40" /></a><a href="https://www.youtube.com/c/shaikh Anish" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/youtube.svg" alt="anishbin_shaikil04" height="30" width="40" /></a><a href="https://instagram.com/anishbin_shakil04" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="ainshbin_shakil04" height="30" width="40" /></a><a href="https://medium.com/anishbin_shakil04" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/medium.svg" alt="ainshbin_shakil04" height="30" width="40" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -40,20 +40,20 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KausainAhmed&layout=compact&theme=dark" alt=shaikh />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaikh Anish&layout=compact&theme=dark" alt=shaikh />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=KausainAhmed&show_icons=true&locale=en&theme=dark" alt="shaikhanish123" /></p
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Shaikh Anish&show_icons=true&locale=en&theme=dark" alt="shaikhanish123" /></p
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KausainAhmed&theme=dark" alt="KausainAhmed" /></p> 
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Shaikh Anish&theme=dark" alt="Shaikh Anish" /></p> 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/KausainAhmed">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=KausainAhmed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KausainAhmed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KausainAhmed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KausainAhmed&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KausainAhmed&theme=2077" height="180em" />
+<a href="https://github.com/Shaikh Anish">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shaikh Anish &theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shaikh Anish&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shaikh Anish&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shaikh Anihs&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shaik Anish&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=KausainAhmed&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Shaikh Anish&theme=react-dark"/>
