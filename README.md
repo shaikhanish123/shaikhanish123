@@ -6,8 +6,6 @@
 - 👨‍💻 All of my projects are available at https://www.github.com/shaikhanish123
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I am good at Chatgpt
--     
-
 <!---
 shaikhanish123/shaikhanish123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
