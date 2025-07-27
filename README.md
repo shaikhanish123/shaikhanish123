@@ -5,13 +5,12 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
  
-- 🔭 I’m currently working on  **Hibernate**
+- 🔭 I’m currently working on  **spring boot API**
 - 👯 I’m looking to collaborate on **Full Stack Web Development**
-- 🌱 I’m currently learning **Node js**
-- 💬 Ask me about **core java , jsp-servlet, sql,Mysql**
+- 💬 Ask me about **core Java, JSP-Servlet, SQL, MySQL**
 - 📫 How to reach me : ****https://shaikhinfotech@gmail.com****
-- 👨‍💻 All of my projects are available at **https://www.github.com/shaikhanish123**
-- ⚡ Fun fact **I'm good AI and Googling**
+- 👨‍💻 All of my projects are available at **https://www.github.com/anish04abc@gmail.com**
+- ⚡ Fun fact **I'm good at AI and Googling**
 
 <div> <a href="https://twitter.com/Anishbin-Shakil" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/anish-shaikh04" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
