@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on  **spring boot API**
 - 👯 I’m looking to collaborate on **Full Stack Web Development**
 - 💬 Ask me about **core Java, JSP-Servlet, SQL, MySQL**
-- 📫 How to reach me : ****https://shaikhinfotech@gmail.com****
-- 👨‍💻 All of my projects are available at **https://www.github.com/anish04abc@gmail.com**
+- 📫 How to reach me : ****https://anish04abc@gmail.com****
+- 👨‍💻 All of my projects are available at **https://www.github.com/shaikhanish123.com**
 - ⚡ Fun fact **I'm good at AI and Googling**
 
 <div> <a href="https://twitter.com/Anishbin-Shakil" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
