@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
  
-- 🔭 I’m currently working on  **spring boot API**
+- 🔭 I’m currently working on  **spring boot project**
 - 👯 I’m looking to collaborate on **Full Stack Web Development**
 - 💬 Ask me about **core Java, JSP-Servlet, SQL, MySQL**
 - 📫 How to reach me : ****https://anish04abc@gmail.com****
